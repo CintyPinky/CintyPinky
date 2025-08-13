@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Cyn 🖤💗
 
 <!--
-**CintyPinky/CintyPinky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### New to coding
+Current WGU student learning Python & building tiny projects.
 
-Here are some ideas to get you started:
+### What I’m learning now
+- Python basics → data structures, testing, automation
+- Git & GitHub workflows (branches, PRs, CI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Repos to check out
+- 🪄 Learning-Python-2025 — daily practice + notes
+- 🎲 Magic 8 Ball — simple CLI with tests and GitHub Actions
+
+### Let’s connect
+- Working on: consistent commits (green squares!)
+
 -->
