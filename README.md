@@ -1,6 +1,6 @@
 # Hi, I’m Cyn 🖤💗
 
-<!--
+
 ### New to coding
 Current WGU student learning Python & building tiny projects.
 
@@ -14,5 +14,3 @@ Current WGU student learning Python & building tiny projects.
 
 ### Let’s connect
 - Working on: consistent commits (green squares!)
-
--->
