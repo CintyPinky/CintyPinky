@@ -1,7 +1,7 @@
 # Hi, I’m Cyn 🖤💗
 
 🎓 *Current WGU software engineering student*  
-🐍 Learning Python & building small projects that make me smile (and work!)
+🐍 Learning Python & building small projects that help me better understanding Python language.
 
 ---
 
