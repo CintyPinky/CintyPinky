@@ -20,7 +20,7 @@
 ---
 
 ## 🎨 Featured Repos
-- 🎉 [**Learning-Python-2025**](https://github.com/CintyPinky/Learning-Python-2026) — daily practice + notes   
+- 🎉 [**Learning-Python-2026**](https://github.com/CintyPinky/Learning-Python-2026) — daily practice + notes   
 
 ---
 
