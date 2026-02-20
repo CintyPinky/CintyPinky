@@ -20,8 +20,7 @@
 ---
 
 ## 🎨 Featured Repos
-- 🎉 [**Learning-Python-2025**](https://github.com/CintyPinky/Learning-Python-2025) — daily practice + notes  
-- 🎲 [**Magic 8 Ball**](https://github.com/CintyPinky/magic-8-ball) — simple CLI with tests and GitHub Actions  
+- 🎉 [**Learning-Python-2025**](https://github.com/CintyPinky/Learning-Python-2026) — daily practice + notes   
 
 ---
 
