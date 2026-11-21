@@ -1,7 +1,6 @@
 # Hi, I’m Cyn 🖤💗
 
-🎓 *Current WGU software engineering student*  
-🐍 Learning Python & building small projects that help me better understanding Python language.
+🎓 Software Development & Security student at UMGC. Learning Python, Java, and secure coding.
 
 ---
 
